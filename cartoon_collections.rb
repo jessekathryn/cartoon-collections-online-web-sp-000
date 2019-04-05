@@ -31,5 +31,4 @@ def find_the_cheese(contains_cheese)
       cheese_types.include?(cheese)
      #contains_cheese << cheese if contains_cheese.include?
  end
-  return cheese_types
 end
